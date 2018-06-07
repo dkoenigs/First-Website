@@ -1,2 +1,2 @@
 # First-Website
-My first attempt creating a website using html, css and javascript/jquery
+My first attempt at creating a website using html, css and javascript/jquery
